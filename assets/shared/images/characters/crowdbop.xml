@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowdbop.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10000" x="0" y="0" width="1037" height="554" frameX="0" frameY="-31" frameWidth="1037" frameHeight="586"/>
+	<SubTexture name="Symbol 10001" x="0" y="554" width="1033" height="571" frameX="-1" frameY="-15" frameWidth="1037" frameHeight="586"/>
+	<SubTexture name="Symbol 10002" x="0" y="554" width="1033" height="571" frameX="-1" frameY="-15" frameWidth="1037" frameHeight="586"/>
+	<SubTexture name="Symbol 10003" x="0" y="554" width="1033" height="571" frameX="-1" frameY="-15" frameWidth="1037" frameHeight="586"/>
+	<SubTexture name="Symbol 10004" x="0" y="554" width="1033" height="571" frameX="-1" frameY="-15" frameWidth="1037" frameHeight="586"/>
+	<SubTexture name="Symbol 10005" x="0" y="1125" width="1033" height="586" frameX="-1" frameY="0" frameWidth="1037" frameHeight="586"/>
+	<SubTexture name="Symbol 10006" x="0" y="1125" width="1033" height="586" frameX="-1" frameY="0" frameWidth="1037" frameHeight="586"/>
+	<SubTexture name="Symbol 10007" x="0" y="1125" width="1033" height="586" frameX="-1" frameY="0" frameWidth="1037" frameHeight="586"/>
+	<SubTexture name="Symbol 10008" x="0" y="1125" width="1033" height="586" frameX="-1" frameY="0" frameWidth="1037" frameHeight="586"/>
+	<SubTexture name="Symbol 10009" x="0" y="1125" width="1033" height="586" frameX="-1" frameY="0" frameWidth="1037" frameHeight="586"/>
+	<SubTexture name="Symbol 10010" x="0" y="1125" width="1033" height="586" frameX="-1" frameY="0" frameWidth="1037" frameHeight="586"/>
+	<SubTexture name="Symbol 10011" x="0" y="1125" width="1033" height="586" frameX="-1" frameY="0" frameWidth="1037" frameHeight="586"/>
+	<SubTexture name="Symbol 10012" x="0" y="1125" width="1033" height="586" frameX="-1" frameY="0" frameWidth="1037" frameHeight="586"/>
+	<SubTexture name="Symbol 10013" x="0" y="1125" width="1033" height="586" frameX="-1" frameY="0" frameWidth="1037" frameHeight="586"/>
+</TextureAtlas>

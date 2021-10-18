@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fonz_assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fonz Down note0000" x="0" y="0" width="559" height="610"/>
+	<SubTexture name="Fonz Down note0001" x="0" y="0" width="559" height="610"/>
+	<SubTexture name="Fonz Down note0002" x="559" y="0" width="481" height="528" frameX="-36" frameY="-29" frameWidth="559" frameHeight="610"/>
+	<SubTexture name="Fonz Down note0003" x="559" y="0" width="481" height="528" frameX="-36" frameY="-29" frameWidth="559" frameHeight="610"/>
+	<SubTexture name="Fonz Down note0004" x="559" y="0" width="481" height="528" frameX="-36" frameY="-29" frameWidth="559" frameHeight="610"/>
+	<SubTexture name="Fonz Down note0005" x="559" y="0" width="481" height="528" frameX="-36" frameY="-29" frameWidth="559" frameHeight="610"/>
+	<SubTexture name="Fonz Down note0006" x="559" y="0" width="481" height="528" frameX="-36" frameY="-29" frameWidth="559" frameHeight="610"/>
+	<SubTexture name="Fonz Down note0007" x="559" y="0" width="481" height="528" frameX="-36" frameY="-29" frameWidth="559" frameHeight="610"/>
+	<SubTexture name="Fonz Down note0008" x="559" y="0" width="481" height="528" frameX="-36" frameY="-29" frameWidth="559" frameHeight="610"/>
+	<SubTexture name="Fonz Down note0009" x="559" y="0" width="481" height="528" frameX="-36" frameY="-29" frameWidth="559" frameHeight="610"/>
+	<SubTexture name="Fonz Down note0010" x="559" y="0" width="481" height="528" frameX="-36" frameY="-29" frameWidth="559" frameHeight="610"/>
+	<SubTexture name="Fonz Idle Dance0000" x="1040" y="0" width="452" height="513" frameX="0" frameY="-19" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Idle Dance0001" x="1040" y="0" width="452" height="513" frameX="0" frameY="-19" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Idle Dance0002" x="1492" y="0" width="440" height="528" frameX="-20" frameY="-9" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Idle Dance0003" x="1492" y="0" width="440" height="528" frameX="-20" frameY="-9" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Idle Dance0004" x="1932" y="0" width="429" height="528" frameX="-25" frameY="-7" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Idle Dance0005" x="1932" y="0" width="429" height="528" frameX="-25" frameY="-7" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Idle Dance0006" x="2361" y="0" width="438" height="528" frameX="-7" frameY="-7" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Idle Dance0007" x="2361" y="0" width="438" height="528" frameX="-7" frameY="-7" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Idle Dance0008" x="2799" y="0" width="445" height="535" frameX="-3" frameY="0" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Idle Dance0009" x="2799" y="0" width="445" height="535" frameX="-3" frameY="0" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Idle Dance0010" x="2799" y="0" width="445" height="535" frameX="-3" frameY="0" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Idle Dance0011" x="2799" y="0" width="445" height="535" frameX="-3" frameY="0" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Idle Dance0012" x="2799" y="0" width="445" height="535" frameX="-3" frameY="0" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Idle Dance0013" x="2799" y="0" width="445" height="535" frameX="-3" frameY="0" frameWidth="460" frameHeight="537"/>
+	<SubTexture name="Fonz Right note0000" x="3244" y="0" width="583" height="595"/>
+	<SubTexture name="Fonz Right note0001" x="3244" y="0" width="583" height="595"/>
+	<SubTexture name="Fonz Right note0002" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0003" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0004" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0005" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0006" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0007" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0008" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0009" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0010" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0011" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0012" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0013" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0014" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0015" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Right note0016" x="0" y="610" width="417" height="528" frameX="-24" frameY="-38" frameWidth="583" frameHeight="595"/>
+	<SubTexture name="Fonz Left note0000" x="417" y="610" width="500" height="556"/>
+	<SubTexture name="Fonz Left note0001" x="417" y="610" width="500" height="556"/>
+	<SubTexture name="Fonz Left note0002" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0003" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0004" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0005" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0006" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0007" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0008" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0009" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0010" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0011" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0012" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0013" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0014" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0015" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Left note0016" x="917" y="610" width="406" height="541" frameX="-78" frameY="-14" frameWidth="500" frameHeight="556"/>
+	<SubTexture name="Fonz Up note0000" x="1323" y="610" width="480" height="603"/>
+	<SubTexture name="Fonz Up note0001" x="1323" y="610" width="480" height="603"/>
+	<SubTexture name="Fonz Up note0002" x="1803" y="610" width="415" height="557" frameX="-21" frameY="-37" frameWidth="480" frameHeight="603"/>
+	<SubTexture name="Fonz Up note0003" x="1803" y="610" width="415" height="557" frameX="-21" frameY="-37" frameWidth="480" frameHeight="603"/>
+	<SubTexture name="Fonz Up note0004" x="1803" y="610" width="415" height="557" frameX="-21" frameY="-37" frameWidth="480" frameHeight="603"/>
+	<SubTexture name="Fonz Up note0005" x="1803" y="610" width="415" height="557" frameX="-21" frameY="-37" frameWidth="480" frameHeight="603"/>
+	<SubTexture name="Fonz Up note0006" x="1803" y="610" width="415" height="557" frameX="-21" frameY="-37" frameWidth="480" frameHeight="603"/>
+	<SubTexture name="Fonz Up note0007" x="1803" y="610" width="415" height="557" frameX="-21" frameY="-37" frameWidth="480" frameHeight="603"/>
+	<SubTexture name="Fonz Up note0008" x="1803" y="610" width="415" height="557" frameX="-21" frameY="-37" frameWidth="480" frameHeight="603"/>
+	<SubTexture name="Fonz Up note0009" x="1803" y="610" width="415" height="557" frameX="-21" frameY="-37" frameWidth="480" frameHeight="603"/>
+	<SubTexture name="Fonz Up note0010" x="1803" y="610" width="415" height="557" frameX="-21" frameY="-37" frameWidth="480" frameHeight="603"/>
+	<SubTexture name="Fonz Up note0011" x="1803" y="610" width="415" height="557" frameX="-21" frameY="-37" frameWidth="480" frameHeight="603"/>
+	<SubTexture name="Fonz Up note0012" x="1803" y="610" width="415" height="557" frameX="-21" frameY="-37" frameWidth="480" frameHeight="603"/>
+	<SubTexture name="Fonz Up note0013" x="1803" y="610" width="415" height="557" frameX="-21" frameY="-37" frameWidth="480" frameHeight="603"/>
+</TextureAtlas>
