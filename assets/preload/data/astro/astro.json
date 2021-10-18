@@ -1,0 +1,14 @@
+{
+    "song": {
+        "player2": "fonz",
+        "player1": "bf",
+        "stage": "highschool",
+        "sectionLengths": [],
+        "song": "astro",
+        "notes": [],
+        "bpm": 110,
+        "sections": 0,
+        "needsVoices": true,
+        "validScore": true
+    }
+}
