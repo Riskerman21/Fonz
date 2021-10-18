@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fiya.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fiya 10000" x="0" y="0" width="1792" height="828"/>
+	<SubTexture name="fiya 10001" x="0" y="0" width="1792" height="828"/>
+	<SubTexture name="fiya 10002" x="1792" y="0" width="1792" height="828"/>
+	<SubTexture name="fiya 10003" x="1792" y="0" width="1792" height="828"/>
+	<SubTexture name="fiya 10004" x="0" y="828" width="1792" height="828"/>
+	<SubTexture name="fiya 10005" x="0" y="828" width="1792" height="828"/>
+	<SubTexture name="fiya 10006" x="0" y="0" width="1792" height="828"/>
+	<SubTexture name="fiya 10007" x="0" y="0" width="1792" height="828"/>
+	<SubTexture name="fiya 10008" x="1792" y="0" width="1792" height="828"/>
+	<SubTexture name="fiya 10009" x="1792" y="0" width="1792" height="828"/>
+</TextureAtlas>

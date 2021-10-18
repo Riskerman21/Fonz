@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boardaars.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="it deos it0000" x="0" y="0" width="1568" height="2576" frameX="-150" frameY="0" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0001" x="1568" y="0" width="1636" height="2505" frameX="-116" frameY="-55" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0002" x="3204" y="0" width="1796" height="2472" frameX="-36" frameY="-72" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0003" x="5000" y="0" width="1668" height="2446" frameX="-100" frameY="-85" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0004" x="0" y="2576" width="1868" height="2426" frameX="0" frameY="-94" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0005" x="1868" y="2576" width="1628" height="2406" frameX="-120" frameY="-106" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0006" x="3496" y="2576" width="1672" height="2390" frameX="-98" frameY="-114" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0007" x="5168" y="2576" width="1652" height="2375" frameX="-108" frameY="-121" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0008" x="0" y="5002" width="1732" height="2363" frameX="-68" frameY="-127" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0009" x="1732" y="5002" width="1716" height="2353" frameX="-76" frameY="-132" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0010" x="3448" y="5002" width="1720" height="2343" frameX="-74" frameY="-138" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0011" x="5168" y="5002" width="1808" height="2339" frameX="-30" frameY="-139" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0012" x="5168" y="5002" width="1808" height="2339" frameX="-30" frameY="-139" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0013" x="5168" y="5002" width="1808" height="2339" frameX="-30" frameY="-139" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0014" x="5168" y="5002" width="1808" height="2339" frameX="-30" frameY="-139" frameWidth="1868" frameHeight="2576"/>
+	<SubTexture name="it deos it0015" x="5168" y="5002" width="1808" height="2339" frameX="-30" frameY="-139" frameWidth="1868" frameHeight="2576"/>
+</TextureAtlas>

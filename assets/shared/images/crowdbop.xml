@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowdbop.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10000" x="0" y="0" width="1602" height="639"/>
+	<SubTexture name="Symbol 10001" x="0" y="639" width="1602" height="639"/>
+	<SubTexture name="Symbol 10002" x="0" y="639" width="1602" height="639"/>
+	<SubTexture name="Symbol 10003" x="0" y="1278" width="1602" height="639"/>
+	<SubTexture name="Symbol 10004" x="0" y="1278" width="1602" height="639"/>
+	<SubTexture name="Symbol 10005" x="0" y="1278" width="1602" height="639"/>
+	<SubTexture name="Symbol 10006" x="0" y="1278" width="1602" height="639"/>
+	<SubTexture name="Symbol 10007" x="0" y="1278" width="1602" height="639"/>
+	<SubTexture name="Symbol 10008" x="0" y="1278" width="1602" height="639"/>
+	<SubTexture name="Symbol 10009" x="0" y="1278" width="1602" height="639"/>
+	<SubTexture name="Symbol 10010" x="0" y="1278" width="1602" height="639"/>
+	<SubTexture name="Symbol 10011" x="0" y="1278" width="1602" height="639"/>
+	<SubTexture name="Symbol 10012" x="0" y="1278" width="1602" height="639"/>
+	<SubTexture name="Symbol 10013" x="0" y="1278" width="1602" height="639"/>
+	<SubTexture name="Symbol 10014" x="0" y="1278" width="1602" height="639"/>
+</TextureAtlas>
